@@ -1,0 +1,37 @@
+# Road Accident Data Analysis (Excel)
+
+## Project Overview
+This project analyzes road accident data using Microsoft Excel to identify patterns and trends in accident frequency, severity, and contributing factors.
+
+## Objectives
+- Analyze accident trends by time (year, month, day of week)
+- Study impact of weather and light conditions
+- Identify high-risk road types and locations
+- Evaluate accident severity and casualties
+- Understand relationship between speed limits and accidents
+
+## Dataset Features
+- Accident Index
+- Accident Date
+- Month, Day of Week, Year
+- Junction Control & Detail
+- Accident Severity
+- Weather Conditions
+- Road Surface Conditions
+- Road Type
+- Speed Limit
+- Number of Casualties
+- Vehicle Type
+- Urban or Rural Area
+- Location 
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Dashboarding
+- Data Cleaning & Formatting
+  
+
+
+## Dashboard Preview
+(Add screenshot of Excel dashboard)
